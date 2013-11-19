@@ -1,0 +1,33 @@
+ul#oer_commons_widget{
+
+	text-align:center;
+
+}
+
+ul#oer_commons_widget li p{
+
+	margin:0px;
+	padding:0px;
+
+}
+
+ul#oer_commons_widget li p span{
+
+	display:none;
+	text-align:left;
+
+}
+
+ul#oer_commons_widget li p a.wikipedia-widget-link{
+
+	cursor:hand;
+	cursor:pointer;
+	
+}
+
+ul#oer_commons_widget li p span:first-child{
+
+	display:block;
+	text-align:center;
+
+}
